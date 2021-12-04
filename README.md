@@ -1,6 +1,6 @@
 # toko_ada
 
-A new Flutter project.
+User registration and login.
 
 ## Getting Started
 
